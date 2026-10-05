@@ -1,0 +1,82 @@
+{
+  "documents_expected": 50,
+  "documents_evaluated": 50,
+  "failed_documents": [],
+  "coverage": 1.0,
+  "true_positive_items": 132,
+  "false_positive_items": 0,
+  "false_negative_items": 0,
+  "core_field_correct": 1462,
+  "core_field_total": 1470,
+  "core_field_accuracy": 0.9945578231292517,
+  "all_labeled_field_correct": 1462,
+  "all_labeled_field_total": 1866,
+  "all_labeled_field_accuracy": 0.7834941050375134,
+  "strict_document_accuracy": 0.0,
+  "per_field": {
+    "effective_date": {
+      "correct": 50,
+      "total": 50
+    },
+    "contract_signed_date_buying_company": {
+      "correct": 50,
+      "total": 50
+    },
+    "contract_signed_date_selling_company": {
+      "correct": 50,
+      "total": 50
+    },
+    "sku_id": {
+      "correct": 132,
+      "total": 132
+    },
+    "sku_code": {
+      "correct": 132,
+      "total": 132
+    },
+    "sku_name": {
+      "correct": 132,
+      "total": 132
+    },
+    "currency": {
+      "correct": 132,
+      "total": 132
+    },
+    "total_listed_value": {
+      "correct": 132,
+      "total": 132
+    },
+    "service_start_date": {
+      "correct": 132,
+      "total": 132
+    },
+    "service_end_date": {
+      "correct": 132,
+      "total": 132
+    },
+    "quantity": {
+      "correct": 124,
+      "total": 132
+    },
+    "unit_price": {
+      "correct": 132,
+      "total": 132
+    },
+    "invoicing_schedule_type": {
+      "correct": 0,
+      "total": 132
+    },
+    "invoicing_frequency": {
+      "correct": 0,
+      "total": 132
+    },
+    "payment_terms": {
+      "correct": 132,
+      "total": 132
+    },
+    "special_notes": {
+      "correct": 0,
+      "total": 132
+    }
+  }
+}
